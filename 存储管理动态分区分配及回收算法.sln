@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "存储管理动态分区分配及回收算法", "存储管理动态分区分配及回收算法\存储管理动态分区分配及回收算法.vcxproj", "{1D6CB38A-CBBE-4AE1-B485-3BF2CC2D48F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D6CB38A-CBBE-4AE1-B485-3BF2CC2D48F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1D6CB38A-CBBE-4AE1-B485-3BF2CC2D48F5}.Debug|Win32.Build.0 = Debug|Win32
+		{1D6CB38A-CBBE-4AE1-B485-3BF2CC2D48F5}.Release|Win32.ActiveCfg = Release|Win32
+		{1D6CB38A-CBBE-4AE1-B485-3BF2CC2D48F5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
